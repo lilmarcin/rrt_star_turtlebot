@@ -1,4 +1,7 @@
 # rrt_star_turtlebot
+
+![rrt*](https://cdn.discordapp.com/attachments/465526373369511956/722519046179782656/unknown.png)
+
 Implementacja algorytmu RRT* do planowania ruchu pojazdu w układzie differential drive (robot turtlebot) na mapie zajętości.
 
 Komendy do wywołania:

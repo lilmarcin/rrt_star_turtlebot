@@ -1,4 +1,4 @@
-# rrt_start_turtlebot
+# rrt_star_turtlebot
 
 roslaunch rrt_miapr colloseum.launch
 

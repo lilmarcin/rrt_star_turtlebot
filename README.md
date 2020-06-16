@@ -20,3 +20,5 @@ Uruchomienie algorytmu rrt*
 Uruchomienie kontrolera turtlebot
 
 **rosrun rrt_star_turtlebot controller.py**
+
+![](https://cdn.discordapp.com/attachments/465526373369511956/722521639018954822/Zrzut20ekranu20z202020-06-162020-39-55.png)

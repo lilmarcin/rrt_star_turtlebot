@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+<node name="map" pkg="map_server" type="map_server" args="$(find rrt_miapr)/maps/map.yaml" />
+
+<node name="points" pkg="rrt_miapr" args="$(find rrt_miapr)" type="points.py" output="screen" />
+<node name="rviz" pkg="rviz" type="rviz" args="$(find rrt_miapr)/rviz/pathplanning_rrt.rviz" />
+</launch>

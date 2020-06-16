@@ -6,4 +6,4 @@ rosrun tf static_transform_publisher 0.0 0.0 0.0 0.0 0.0 0.0 map odom 100
 
 rosrun rrt_star_turtlebot rrt_star.py
 
-rortun rrt_star_turtlebot controller.py
+rosrun rrt_star_turtlebot controller.py
